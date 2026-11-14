@@ -132,3 +132,7 @@ length reproduces its own confidence level).
 ## License
 
 MIT (c) TPOALOS
+
+---
+
+**More tools by [TPOALOS](https://github.com/TPOALOS):** [backtestlint](https://github.com/TPOALOS/backtestlint) · [backtestlint](https://github.com/TPOALOS/backtestlint) · [all 51 tools](https://tpoalos.github.io)
